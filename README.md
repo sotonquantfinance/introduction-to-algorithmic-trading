@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/sqfs1.png" alt="Southampton Quantitative Finance Society banner" width="100%" />
 </p>
-
+<!-- e -->
 <h1 align="center">📘 Introduction to Algorithmic Trading</h1>
 <h3 align="center">Southampton Quantitative Finance Society — Workshop Series</h3>
 
