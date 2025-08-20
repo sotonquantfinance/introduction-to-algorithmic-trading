@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sqfs1.png" alt="Southampton Quantitative Finance Society banner" width="100%" />
+  <img src="assets/sqfs3.png" alt="Southampton Quantitative Finance Society banner" width="40%" />
 </p>
 <!-- e -->
 <h1 align="center">📘 Introduction to Algorithmic Trading</h1>
